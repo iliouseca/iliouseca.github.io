@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iliouseca.github.io/sitemap.html.gz
+Sitemap: https://iliouseca.github.io/app/sitemap.html.gz
+Sitemap: https://iliouseca.github.io/assets/sitemap.html.gz
+Sitemap: https://iliouseca.github.io/css/sitemap.html.gz
+Sitemap: https://iliouseca.github.io/data/sitemap.html.gz
+Sitemap: https://iliouseca.github.io/includes/sitemap.html.gz
+Sitemap: https://iliouseca.github.io/item/sitemap.html.gz
+Sitemap: https://iliouseca.github.io/src/sitemap.html.gz
